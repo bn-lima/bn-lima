@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bruno Vinicius Nascimento Lima   
+# Hi 👋, I'm Bruno Lima   
 
 🚀 Backend Developer | Python & Django  
 🇧🇷 Brazil  
