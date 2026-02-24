@@ -48,10 +48,6 @@ I’m continuously improving my problem-solving skills, writing cleaner code, an
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bn-lima&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/bn-lima" />
-</p>
-
 ---
 
 ## 🚀 Philosophy  
