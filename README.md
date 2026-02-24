@@ -11,16 +11,6 @@ I’m continuously improving my problem-solving skills, writing cleaner code, an
 
 ---
 
-## 🌐 Where to find me  
-
-<p align="left">
-  <a href="https://github.com/bn-lima">
-    <img src="https://img.shields.io/badge/GitHub-bn--lima-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
 ## 🧠 What I do  
 
 - 🏗️ Backend web development with Django  
@@ -34,31 +24,32 @@ I’m continuously improving my problem-solving skills, writing cleaner code, an
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 ### Backend  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Django REST Framework](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### DevOps & Tools  
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=pgadmin&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bn-lima&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bn-lima&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bn-lima&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/bn-lima" />
 </p>
 
 ---
