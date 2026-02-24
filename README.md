@@ -1,6 +1,6 @@
-# Hi 👋, I'm Bruno Vinicius Nascimento Lima  
+# Hi 👋, I'm Bruno Vinicius Nascimento Lima   
 
-🚀 Backend Developer | Python & Django
+🚀 Backend Developer | Python & Django  
 🇧🇷 Brazil  
 
 I design and build backend systems and REST APIs focused on clean architecture, maintainability, and scalability.  
@@ -56,7 +56,10 @@ I’m continuously improving my problem-solving skills, writing cleaner code, an
 
 ## 📊 GitHub Stats  
 
-<p align="left"><img height="170" src="https://github-readme-stats.vercel.app/api?username=bn-lima&show_icons=true&theme=tokyonight&count_private=true" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bn-lima&layout=compact&theme=tokyonight" /></p>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bn-lima&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bn-lima&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
