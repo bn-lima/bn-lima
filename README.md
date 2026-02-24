@@ -11,6 +11,16 @@ I’m continuously improving my problem-solving skills, writing cleaner code, an
 
 ---
 
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bruno-vn-lima/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bruno%20VN%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🧠 What I do  
 
 - 🏗️ Backend web development with Django  
