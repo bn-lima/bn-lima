@@ -7,7 +7,7 @@ I design and build backend systems and REST APIs focused on clean architecture, 
 
 Currently evolving my skills in software architecture, authentication systems, databases, and scalable backend design.  
 
-I’m continuously improving my problem-solving skills, writing cleaner code, and building strong technical foundations to create my own tech company in the future.
+I’m continuously improving my problem-solving skills, writing cleaner code, and building strong technical foundations to become a solid software engineer.
 
 ---
 
